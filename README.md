@@ -1,6 +1,6 @@
 
 
-# Getting Started [![Build Status](https://travis-ci.org/KingBendico/ca3backend.svg?branch=master)](https://travis-ci.org/KingBendico/ca3backend.svg?branch=master)
+# Getting Started [![Build Status](https://travis-ci.org/JoakimKSS/Sem3Flow3Week3ca3backend.svg?branch=master)](https://travis-ci.org/JoakimKSS/Sem3Flow3Week3ca3backend.svg?branch=master)
 
 1. Setup droplet on digital ocean with docker using this docker setup: [Github repository](https://github.com/Hartmannsolution/tomcat_mysql_nginx_docker.git "Github.com").
 
